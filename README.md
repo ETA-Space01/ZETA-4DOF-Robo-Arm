@@ -1,2 +1,3 @@
 # ZETA-4DOF-Robo-Arm
-4DOF ROBO ARM 
+4DOF ROBO ARM (Dh parameted)
+
