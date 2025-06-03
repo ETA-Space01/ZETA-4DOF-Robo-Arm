@@ -34,7 +34,7 @@ It is fully modeled in SolidWorks and integrated into MATLAB Simulink using Dena
 - 📐 Denavit-Hartenberg Convention
 
 ---
-#Renders
+## Renders
 <table>
   <tr>
     <td><img src="https://github.com/ETA-Space01/ZETA-4DOF-Robo-Arm/blob/main/Images/Render1.JPG" width="300"/></td>
