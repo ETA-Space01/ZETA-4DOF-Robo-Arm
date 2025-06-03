@@ -35,10 +35,10 @@ It is fully modeled in SolidWorks and integrated into MATLAB Simulink using Dena
 
 ---
 #Renders
-![Render1](assets/Render1.JPG)
-![Render1](assets/Render2.JPG)
-![Render1](assets/Render3.JPG)
-![Render1](assets/Render4.JPG)
+![Render1](https://github.com/ETA-Space01/ZETA-4DOF-Robo-Arm/blob/main/Images/Render1.JPG)
+![Render1](https://github.com/ETA-Space01/ZETA-4DOF-Robo-Arm/blob/main/Images/Render2.JPG)
+![Render1](https://github.com/ETA-Space01/ZETA-4DOF-Robo-Arm/blob/main/Images/Render3.JPG)
+![Render1](https://github.com/ETA-Space01/ZETA-4DOF-Robo-Arm/blob/main/Images/Render4.JPG)
 
 ## 📂 Folder Structure
 
