@@ -1,3 +1,4 @@
+
 # ZETA-4DOF-Robo-Arm
 4DOF ROBO ARM (Dh parameted)
 
@@ -33,6 +34,11 @@ It is fully modeled in SolidWorks and integrated into MATLAB Simulink using Dena
 - 📐 Denavit-Hartenberg Convention
 
 ---
+#Renders
+![Render1](assets/Render1.JPG)
+![Render1](assets/Render2.JPG)
+![Render1](assets/Render3.JPG)
+![Render1](assets/Render4.JPG)
 
 ## 📂 Folder Structure
 
