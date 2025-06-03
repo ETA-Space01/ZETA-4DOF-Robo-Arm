@@ -20,8 +20,8 @@ It is fully modeled in SolidWorks and integrated into MATLAB Simulink using Dena
 
 ## 🎯 Goals
 
-- ✅ Design and simulate a robotic arm with minimal complexity
-- ✅ Perform kinematic modeling using DH parameters
+- ✅ Design and simulate a robotic arm with minimal complexity (Not yet)
+- ✅ Perform kinematic modeling using DH parameters (Not yet)
 - 🔄 Future: Add motor dynamics, control, and real-time simulation
 - 🔄 Future: Export STL for 3D printing
 
